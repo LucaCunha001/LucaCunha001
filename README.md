@@ -70,6 +70,16 @@ Melhorar minhas habilidades, contribuir para projetos de código aberto e criar 
 | ![Luca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucacunha&show_icons=true&theme=radical) |
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucacunha&layout=compact&theme=radical) |
 
+##
+![Snake animation](https://github.com/LucaCunha001/LucaCunha001/blob/output/github-contribution-grid-snake.svg)
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucaCunha001/LucaCunha001/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LucaCunha001/LucaCunha001/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LucaCunha001/LucaCunha001/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 💼 Contato
 📧 Email: lcunhalula@gmail.com
 📍 Localização: Bahia, Brasil
