@@ -71,8 +71,6 @@ Melhorar minhas habilidades, contribuir para projetos de código aberto e criar 
 | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucacunha&layout=compact&theme=radical) |
 
 ##
-![Snake animation](https://github.com/LucaCunha001/LucaCunha001/blob/output/github-contribution-grid-snake.svg)
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LucaCunha001/LucaCunha001/output/github-contribution-grid-snake-dark.svg">
