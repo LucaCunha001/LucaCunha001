@@ -31,7 +31,7 @@ Melhorar minhas habilidades, contribuir para projetos de código aberto e criar 
 
 </div>
 
-### Pouco esperiente:
+### Pouco experiente:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="background-color: #00599C; color: #fff; padding: 5px 10px; font-weight: bold; display: flex; align-items: center;">
