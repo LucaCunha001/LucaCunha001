@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou Luca Cunha
+# 👋 Olá, eu sou Luca!
 ## 🌟 Sobre mim
-Sou um programador amador apaixonado por tecnologia e desenvolvimento de software. Atualmente, tenho experiência em Python, GML, JavaScript, HTML, e CSS. Também sei um pouco de C e estou empolgado para aprender C++ e Java.
+Sou um programador amador apaixonado por tecnologia e desenvolvimento de software. Atualmente, tenho experiência em Python, GML, JavaScript, HTML, e CSS. Também sei um pouco de C, C++ e Java.
 
 ## 🎯 Objetivo
 Melhorar minhas habilidades, contribuir para projetos de código aberto e criar soluções criativas para problemas reais.
@@ -39,8 +39,6 @@ Melhorar minhas habilidades, contribuir para projetos de código aberto e criar 
   </div>
 </div>
 
-### Aprendendo:
-
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <div style="background-color: #b07219; color: #fff; padding: 5px 10px; font-weight: bold; display: flex; align-items: center;">
     <img style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="18" style="vertical-align: middle;"> Java
@@ -50,17 +48,45 @@ Melhorar minhas habilidades, contribuir para projetos de código aberto e criar 
   </div>
 </div>
 
-## 🛠️ Ferramentas e Tecnologias  
+## 🛠️ Ferramentas
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
   <div style="background-color: #01234f; color: #fff; padding: 5px 10px; font-weight: bold; display: flex; align-items: center;">
-    <img style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="18" style="vertical-align: middle;"> VS Code
+    <img style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="18">
+    VS Code
   </div>
 
   <div style="background-color: #010101; color: #fff; padding: 5px 10px; font-weight: bold; display: flex; align-items: center;">
-    <img style="padding-right: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRBiWGEQrqo_pE6zch4GbCOM_yRaol4Y_cxQ&s" alt="GameMaker Studio" width="18" style="vertical-align: middle;"> GameMaker Studio
+    <img style="padding-right: 5px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRBiWGEQrqo_pE6zch4GbCOM_yRaol4Y_cxQ&s" alt="GameMaker Studio" width="18">
+    GameMaker Studio
   </div>
+
+  <div style="background-color: #43853d; color: #fff; padding: 5px 10px; font-weight: bold; display: flex; align-items: center;">
+    <img style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="18">
+    Node.js
+  </div>
+
+  <div style="background-color: #2b2e3b; color: #fff; padding: 5px 10px; font-weight: bold; display: flex; align-items: center;">
+    <img style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="18">
+    Electron
+  </div>
+
+  <div style="background-color: #119eff; color: #fff; padding: 5px 10px; font-weight: bold; display: flex; align-items: center;">
+    <img style="padding-right: 5px;" src="https://www.svgrepo.com/show/353536/capacitorjs-icon.svg" alt="Capacitor" width="18">
+    Capacitor
+  </div>
+
+  <div style="background-color: #5c2d91; color: #fff; padding: 5px 10px; font-weight: bold; display: flex; align-items: center;">
+    <img style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="18">
+    Visual Studio
+  </div>
+
+  <div style="background-color: #3ddc84; color: #000; padding: 5px 10px; font-weight: bold; display: flex; align-items: center;">
+    <img style="padding-right: 5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" width="18">
+    Android Studio
+  </div>
+
 </div>
 
 
