@@ -93,7 +93,7 @@ Melhorar minhas habilidades, contribuir para projetos de código aberto e criar 
 ## 📈 Estatísticas do GitHub
 | Linguagens mais usadas | Perfil GitHub |
 |---------------|---------------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCunha001&theme=radical&hide_border=false&layout=compact) | ![GitHub Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucaCunha001&theme=radical) |
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LucaCunha001&layout=compact&theme=radical&langs_count=10) | ![GitHub Profile Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LucaCunha001&theme=radical) |
 
 ##
 
